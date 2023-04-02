@@ -221,12 +221,6 @@
   margin: -381px calc(((100% - 1140px) / 2) + 584px) 60px calc(((100% - 1140px) / 2) + 15px);
 }
 
-.u-section-2 .u-btn-1 {
-  background-image: none;
-  font-size: 1.125rem;
-  padding: 0;
-}
-
 @media (max-width: 1199px) {
    .u-section-2 {
     min-height: 652px;
